@@ -8,9 +8,9 @@
 > Teya S.
 ---
 ## Info 
-> **General Defusal:** To defuse our bomb, you must deactivate all 3 trivia-based phases before the timer runs out. If you do not deactivate these phases, the bomb detonates. If you do, it gets defused.
-> **The Phases:** There are 3 phases to the bomb: the keypad, the toggles, and the wires. Each phase has a different type of question which you must answer correctly to disable the phase. There is also a button which does not need to be defused but can alter gameplay in various ways.
-> **Mistakes:** Mistakes take several seconds away from your timer, depending on which difficulty was chosen. Making too many mistakes will deplete the timer, thus detonating the bomb.
+> **General Defusal:** To defuse our bomb, you must deactivate all 3 trivia-based phases before the timer runs out. If you do not deactivate these phases, the bomb detonates. If you do, it gets defused.  
+> **The Phases:** There are 3 phases to the bomb: the keypad, the toggles, and the wires. Each phase has a different type of question which you must answer correctly to disable the phase. There is also a button which does not need to be defused but can alter gameplay in various ways.  
+> **Mistakes:** Mistakes take several seconds away from your timer, depending on which difficulty was chosen. Making too many mistakes will deplete the timer, thus detonating the bomb.  
 > **The Questions:** Each time the bomb is booted, a random assortment of UT trivia is chosen for you to answer. These answers range in their subjects but all pertain to the university. We would ask you to avoid Googling answers to these questions, but nobody’s stopping you.
 ---
 ## Manual 
